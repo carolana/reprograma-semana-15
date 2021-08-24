@@ -45,6 +45,6 @@ O sistema, então, irá gerar um token que servirá para autenticar a requisiç�
 }
 ```
 
-## Com o token gerado, você conseguirá realizar acessar as demais rotas citadas na Semana-14!
+## Com o token gerado, você conseguirá acessar as demais rotas citadas na Semana-14!
 
 ![gif "log in"](img/logIn.gif)
