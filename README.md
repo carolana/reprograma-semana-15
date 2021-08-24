@@ -4,7 +4,7 @@
 </h1>
 
 
-Essa semana tivemos o desafio de autenticar nossas rotas e apenas usuários autorizados poderiam realizar consultar, criar, atualizar e deletar estudios e títulos:
+Essa semana tivemos o desafio de autenticar nossas rotas e apenas usuários autorizados poderiam consultar, criar, atualizar e deletar estudios e títulos:
 
 ![gif "acess denied"](img/acessDenied.gif)
 
