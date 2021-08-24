@@ -6,7 +6,7 @@
 
 Essa semana tivemos o desafio de autenticar nossas rotas e apenas usuários autorizados poderiam realizar consultar, criar, atualizar e deletar estudios e títulos:
 
-![gif "acess denied"](fav-movies/img/acessDenied.gif)
+![gif "acess denied"](img/acessDenied.gif)
 
 ### Primeiro, crie um usuário:
 <br>
@@ -47,7 +47,7 @@ O sistema, então, irá gerar um token que servirá para autenticar a requisiç�
 
 ## Com o token gerado, você conseguirá realizar acessar as demais rotas citadas na Semana-14!
 
-![gif "log in"](fav-movies/img/logIn.gif)
+![gif "log in"](img/logIn.giff)
 
 
 
